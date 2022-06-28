@@ -2,7 +2,7 @@
 
 **Overview**: Show the earthquake data in relation to the tectonic plates' location on the earth, and all the earthquakes with a magnitude of greate than 4.5 on the map.
 
-##Requirements for the challange 
+## Requirements for the challange 
 
 1. Add Tectonic Plate Data
 Using our knowledge of JavaScript, Leaflet.js, and geoJSON data, we’ll add tectonic plate data using d3.json(), add the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
